@@ -8,6 +8,8 @@ git push : pushes committed file to remote repo
 git checkout : allows you to move among repo branches
 git branch : creates a branch copy of the master
 
+Yeah. It's a start.
+
 
 Git & Github (Day 2 Notes on Git)
 
